@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Leo</h1>
-<img src='https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hc0dukgcx1kb8xjwwbmjmz8ozxyw8pm9mig6a8d9&rid=giphy.gif&ct=g' align='center'>
+<div align="center"><img src='https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hc0dukgcx1kb8xjwwbmjmz8ozxyw8pm9mig6a8d9&rid=giphy.gif&ct=g'></div>
 <h3 align="center">Full Stack Web Dev. En el camino Frontend.</h3>
 
 - 🌱 I’m currently learning **Typescript, React Native, Tailwind**
