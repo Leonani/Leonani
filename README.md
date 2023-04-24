@@ -19,7 +19,7 @@ persona curiosa.
 <p align="left">https://www.linkedin.com/in/escudero-leonel/</p>
 <p align="left">https://portfolioescuderoleonel.netlify.app/</p>
 <p align="left">escuderoleonel@outlook.com</p>
-<p align="left">+ 54 9 351 6230135</p>
+<p align="left">+ 54 9 351 7460413</p>
 
 
 
