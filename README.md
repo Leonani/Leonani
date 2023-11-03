@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Web Dev. En el camino Frontend.</h3>
 <p>Soy un desarrollador Full Stack con mas de un año de experiencia en el ámbito laboral y dos años adicionales dedicados a mi formación a través de cursos especializados. Mi pasión por la tecnología y el desarrollo web va de la mano con mi entusiasmo por el progreso y la búsqueda de nuevas experiencias. Estoy comprometido a llevar a cabo soluciones innovadoras y aportar mi expertise en cada proyecto que emprendo. Estoy emocionado por las oportunidades que el futuro pueda traer y ansío seguir aprendiendo y creciendo en este mundo.
 </p>
-- 🌱 I’m currently learning **Typescript, React Native, Tailwind**
+- 🌱 I’m currently learning **C Sharp, .NET, Angular**
 
 
 
